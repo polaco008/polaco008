@@ -1,16 +1,13 @@
-## Hi there 👋
+# olá, eu sou Luiz Eduardo!🚗
 
-<!--
-**polaco008/polaco008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-estudante do primeiro B ensino médio!📘
+-colégio professores Edvaldo Maria Janete Carneiro!🏫
+-Turvo-PR
 
-Here are some ideas to get you started:
+# Sobre minha pessoa 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-aprendendo HTML, CSS e javascript
+-objetivo: ser bem sucedido na vida, e dar orgulho pros meus pais.
+-hobbie: jogar futebol, treina, musica.
+
+![](https://static.wikia.nocookie.net/128059c1-2a7a-48b7-b807-48fe9e417ca7/scale-to-width/755)
